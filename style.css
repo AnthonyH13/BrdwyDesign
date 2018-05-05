@@ -1,0 +1,11 @@
+.name,
+#links{
+    text-align: center;
+    color: white;
+}
+
+.image {
+  background-image: url(/Users/anthony/BrdwyDesign/resources/images/building.png);
+  background-size: cover;
+  background-position: center;
+}
