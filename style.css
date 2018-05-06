@@ -9,3 +9,45 @@
   background-size: cover;
   background-position: center;
 }
+
+.name{
+  font-size: 70px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+#links{
+  font-size: 18px;
+  font-family: helvetica;
+}
+
+.designed{
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  background-image: url(/Users/anthony/BrdwyDesign/resources/images/building.png);
+  background-size: cover;
+  background-position: center;
+}
+
+#process{
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.header{
+  font-size: 23px;
+  font-family: helvetica;
+  font-weight: bold;
+  text-align: center;
+}
+
+p{
+  font-weight: helvetica;
+  font-size: 14px;
+  text-align: center;
+  
+}
